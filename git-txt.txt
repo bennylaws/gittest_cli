@@ -2,3 +2,4 @@ Hallo, hier ist line 1.
 und noch ne line, jetzt Ende der ersten Version!
 
 Jetzt ne leere Zeile und diese hier, außerdem 2 changes in lines 1 und 2. -ENDE-
+Neue Zeile, 3rd change :)
